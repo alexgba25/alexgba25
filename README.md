@@ -1,19 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=alexgba25)
 
-### Hola 👋  Soy Alejandro Gutierrez,
-Soy desarrollador .NET Jr. con formación en Ingeniería en Sistemas Computacionales y experiencia en desarrollo web, integración de APIs y bases de datos.
+### Hello 👋 I’m Alejandro Gutierrez,
+I’m a Junior .NET Developer with a degree in Computer Systems Engineering and experience in web development, API integration, and databases.
 
-- ⚡ Me encanta aprender sobre nuevas tecnologías y enfrentar desafíos técnicos.
-- 🔭 Actualmente estoy trabajando en:
-  - Desarrollo de aplicaciones web con .NET
-  - Integración de servicios y APIs
-- 💡 Estoy interesado en el desarrollo de software, metodologías ágiles y arquitecturas escalables.
-- 💬 Hablemos sobre desarrollo web, integración de sistemas o cualquier tema que te apasione.
+- 🔭 I’m currently working on:
+  - Web application development with .NET
+  - Service and API integration
+- 💡 I’m interested in software development, agile methodologies, and scalable architectures.
 
+<h3> My skills include </h3>
 
-<h3> Mis habilidades incluyen </h3>
-
-<h4> Lenguajes </h4> 
+<h4> Languages </h4> 
 <span>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -37,7 +34,7 @@ Soy desarrollador .NET Jr. con formación en Ingeniería en Sistemas Computacion
 
 </span>
 
-<h4> Bases de Datos </h4> 
+<h4> Databases </h4> 
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
@@ -50,7 +47,7 @@ Soy desarrollador .NET Jr. con formación en Ingeniería en Sistemas Computacion
   <img src="https://img.shields.io/badge/Visual_Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
 </span>
 
-<h4> Otras Herramientas y Tecnologías </h4> 
+<h4> Other Tools and Technologies </h4> 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -71,8 +68,6 @@ Soy desarrollador .NET Jr. con formación en Ingeniería en Sistemas Computacion
 <hr>
 
 <p align="center">
-  <i>"La tecnología es mejor cuando une a las personas."</i>
-  <br><br>
   <a target="_blank" href="www.linkedin.com/in/alejandro-gutierrez-bahena">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
